@@ -44,38 +44,35 @@ TeamMates is a simple and easy to use web application where you can find teammat
 
 
 ## Landing Page
-![](webpic/one.png)
-
-## Main Page After Login
-![](webpic/two.png)
+![](webapp-images/one.png)
 
 
 ## About section
-![](webpic/three.png)
+![](webapp-images/two.png)
 
 
 ## Login Page
-![](webpic/nine.png)
+![](webapp-images/nine.png)
 
 
 ## Registration page
-![](webpic/eight.png)
+![](webapp-images/eight.png)
 
 
 ## Students Section
-![](webpic/four.png)
+![](webapp-images/three.png)
 
 ## Stats section
-![](webpic/ten.png)
+![](webapp-images/four.png)
 
 ## Mentors Section
-![](webpic/five.png)
+![](webapp-images/five.png)
 
 ## Review Section 
-![](webpic/six.png)
+![](webapp-images/six.png)
 
 ## Blog Section
-![](webpic/seven.png)
+![](webapp-images/seven.png)
 
 
 # Thank You
