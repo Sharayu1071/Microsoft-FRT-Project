@@ -1,6 +1,6 @@
 ## :dizzy: Future Ready Talent Project
 
-## ✨ Demo Link : ()
+## ✨ Link : (https://gray-rock-064c65600.1.azurestaticapps.net/)
 
 ## :two_women_holding_hands: Project Name: TeamMates
 
