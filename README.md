@@ -1,4 +1,4 @@
-## :dizzy: Future Ready Talent Project
+## :dizzy: Microsoft: Future Ready Talent Project
 
 ## ✨ Link : (https://gray-rock-064c65600.1.azurestaticapps.net/)
 
